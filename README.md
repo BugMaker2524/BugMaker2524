@@ -5,8 +5,8 @@
 
 - 🔭 I’m  a a first-year graduate student at [FDU](https://www.fudan.edu.cn/) now.
 - 🌱 I’m currently learning [PyTorch](https://pytorch.org/) and [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision).
-- 🤔 I’m looking for help with “Deep learner”
-- 💬 Ask me about 1798172712@qq.com
+- 🤔 I’m looking for help with “Deep learner”.
+- 💬 Ask me about 1798172712@qq.com.
 <!-- - 📫 How to reach me: noaki_12 -->
 
 <!-- ## ⚡ Technologies
