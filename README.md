@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/github/followers/BugMaker2524.svg?style=social&label=Follow&maxAge=2592000">
   </a>
 
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BugMaker2524&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker2524&theme=blue-green)
