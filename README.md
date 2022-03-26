@@ -1,6 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ![:BugMaker2524](https://count.getloli.com/get/@:BugMaker2524?theme=gelbooru)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
+
 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 
 - 🔭 I’m  a a first-year graduate student at [FDU](https://www.fudan.edu.cn/) now.
@@ -26,6 +27,7 @@
   </a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BugMaker2524&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker2524&theme=blue-green)
 
 ## ⚡ Skills
