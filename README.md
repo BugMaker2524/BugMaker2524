@@ -1,35 +1,39 @@
 ## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<!-- ![:tianbing111](https://count.getloli.com/get/@:tianbing111?theme=gelbooru) -->
+![:BugMaker2524](https://count.getloli.com/get/@:BugMaker2524?theme=gelbooru)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+𝙰𝚋𝚘𝚞𝚝 𝙼𝚎<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 
 - 🔭 I’m  a a first-year graduate student at [FDU](https://www.fudan.edu.cn/) now.
 - 🌱 I’m currently learning [PyTorch](https://pytorch.org/) and [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision).
-- 🤔 I’m looking for help with “Deep Learner”.
-- 💬 Ask me about 1798172712@qq.com.
-<!-- - 📫 How to reach me: noaki_12 -->
+- 🤔 I’m looking for help with “Deep learner”
+- 💬 Ask me about 1798172712@qq.com
 
-<!-- ## ⚡ Technologies
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+<strong>Check out my work below!</strong>
+  <a href="https://github.com/BugMaker2524">
+    <img src="https://badges.pufler.dev/visits/BugMaker2524/BugMaker2524?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/BugMaker2524">
+    <img src="https://badges.pufler.dev/years/BugMaker2524?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/BugMaker2524?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/BugMaker2524?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve">
+    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+    <a href="https://github.com/Charmve">
+    <img src="https://img.shields.io/github/followers/BugMaker2524.svg?style=social&label=Follow&maxAge=2592000">
+  </a>
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=tianbing111&count_private=true&show_icons=true&include_all_commits=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianbing111&hide=TeX&layout=compact) -->
-<!-- <br/><br/>📊 **Weekly development breakdown** -->
-<!--START_SECTION:waka-->
-<!-- ```text
-Python     5 hrs 43 mins   ██████████████░░░░░░░░░░░   56.23 % 
-C#         1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-C++        59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JSON       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-HTML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-``` -->
-<!--END_SECTION:waka-->
-<!-- ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BugMaker2524&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker2524&theme=blue-green)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow noaki on Instagram"/>](https://twitter.com/tianbing3)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow noaki on Instagram" title="Follow noaki on Instagram"/>](https://www.instagram.com/tbmic/) -->
+## ⚡ Skills
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
+
+## 💻 OS
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
 ## 饮冰十年，难凉热血！
-
-
-
