@@ -30,7 +30,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BugMaker2524&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker2524&theme=blue-green)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugMaker2524&theme=blue-green) -->
 
 ## ⚡ Skills
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
