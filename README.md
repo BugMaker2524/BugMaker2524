@@ -6,7 +6,7 @@
 - 🔭 I’m a first-year graduate student at [FDU](https://www.fudan.edu.cn/) now.
 - 🌱 I’m currently learning [PyTorch](https://pytorch.org/) and [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision).
 - 🤔 I’m looking for help with “Deep learner”.
-- 💬 Ask me about 1798172712@qq.com.
+- 💬 Ask me about everything.
 
 <strong>Check out my work below!</strong>
 
@@ -37,6 +37,6 @@
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
 
 ## 💻 OS
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 ## 饮冰十年，难凉热血！
