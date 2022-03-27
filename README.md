@@ -5,7 +5,7 @@
 
 - 🔭 I’m a first-year graduate student at [FDU](https://www.fudan.edu.cn/) now.
 - 🌱 I’m currently learning [PyTorch](https://pytorch.org/) and [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision).
-- 🤔 I’m looking for help with “Deep learner”.
+- 🤔 I’m looking for help with “Deep Learner”.
 - 💬 Ask me about everything.
 
 <strong>Check out my work below!</strong>
